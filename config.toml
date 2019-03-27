@@ -1,0 +1,4 @@
+baseURL = "https://ermakov.blog/"
+languageCode = "en-us"
+title = "It's me"
+theme="ananke"
